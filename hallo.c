@@ -3,4 +3,5 @@
 void main(){
 
     printf("hallow,world");
+    printf("hallow,world");
 }
